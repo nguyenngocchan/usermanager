@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Trần Đức Lương",
+        "tel":"09876012",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Trần Đức Lư",
+        "tel":"09876012",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Trần Đức Văn",
+        "tel":"09876012",
+        "permission":2
+    }
+]
